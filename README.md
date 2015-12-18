@@ -14,7 +14,6 @@ Facesynth interpolates between those vowels based on your mouth shape so when so
 moving your mouth in a particular way and hears the sound produced, it looks somewhat realistic
 
 You can set different vowels using keyboard shortcuts.  
-All can set to interpolate from all vowels with:  
 'c' => from vowel A, 'C' => to vowel A  
 'v' => from vowel E, 'V' => to vowel E  
 'b' => from vowel I, 'B' => to vowel I  
