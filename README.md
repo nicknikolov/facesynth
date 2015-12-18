@@ -8,7 +8,7 @@ It uses the following addons:
 - ofxMaxim  
 - ofxOpenCv  
 
-Facesynth is based on Kyle McDonalds' Face tracking work and Mick Grierson's Maximliam DPS library.
+Facesynth is based on Kyle McDonalds' Face tracking work and Mick Grierson's Maximliam DSP library.
 All I have done is implement a simple formant filter that generates different vowels.
 Facesynth interpolates between those vowels based on your mouth shape so when someone sees yo
 moving your mouth in a particular way and hears the sound produced, it looks somewhat realistic
