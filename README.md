@@ -42,7 +42,7 @@ particular scale. Pressing the upper case letter, you will get the major scale.
 'G' for example gives you G Major. 'u' gives you A sharp minor.
 Again, just like Ableton, you can use 'z' to tranpose down and 'x' to tranpose up.
 To spice it up, moving your eyebrows up will give the sound a slight vibrato.
-Lastly, you can play around with the delay to create a nicer and more interesting melody sounds.
+Lastly, you can play around with the delay to create nicer and more interesting melody sounds.
 The Facesynth is most fun when you "sing" over some harmony and match the key or chords
 by selecting the right scale, or "singing" over your favoure tunes.
 
